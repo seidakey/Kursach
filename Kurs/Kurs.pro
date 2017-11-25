@@ -13,11 +13,25 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    Widgets/widgetchooserlist.cpp \
+    Widgets/widgetchooseritem.cpp \
+    XFtfParsers/xftfparsertext.cpp \
+    Logging/logger.cpp \
+    XFtfParsers/xftftagsmapper.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    Widgets/widgetchooserlist.h \
+    Widgets/widgetchooseritem.h \
+    XFtfParsers/xftfparsertext.h \
+    Logging/logger.h \
+    XFtfParsers/xftftagsmapper.h \
+    XFtfParsers/xftftagname.h \
+    FtfText/ftftag.h
 
 FORMS    += mainwindow.ui
 
 DISTFILES += \
-    test.html
+    test.html \
+    testXML.xml \
+    log.log

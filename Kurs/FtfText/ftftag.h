@@ -1,0 +1,6 @@
+#ifndef FTFTAGS_H
+#define FTFTAGS_H
+
+enum FtfTag { TEXT, PARAGRAPH, QUESTION, PARAGRAPH_PART, TITLE };
+
+#endif // FTFTAGS_H

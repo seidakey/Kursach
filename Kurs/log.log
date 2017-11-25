@@ -1,0 +1,58 @@
+2017-11-25 18:34:49.134 WRN warning
+2017-11-25 18:43:53.656 WRN QApplication: invalid style override passed, ignoring it.
+2017-11-25 18:43:54.029 DBG "p"
+2017-11-25 18:43:54.029 DBG "\n " well
+2017-11-25 18:43:54.029 DBG "p" well
+2017-11-25 18:43:54.030 DBG "q"
+2017-11-25 18:43:54.030 DBG tag "t1"
+2017-11-25 18:43:54.030 DBG "asd" well
+2017-11-25 18:43:54.030 DBG "q" well
+2017-11-25 18:43:54.030 DBG "text" well
+2017-11-25 18:44:12.514 WRN QApplication: invalid style override passed, ignoring it.
+2017-11-25 18:44:12.867 CRT "XftfParserText:readDocument: node name != text"
+2017-11-25 18:44:12.867 DBG "p"
+2017-11-25 18:44:12.867 DBG "\n " well
+2017-11-25 18:44:12.868 DBG "p" well
+2017-11-25 18:44:12.868 DBG "q"
+2017-11-25 18:44:12.868 DBG tag "t1"
+2017-11-25 18:44:12.868 DBG "asd" well
+2017-11-25 18:44:12.868 DBG "q" well
+2017-11-25 18:50:13.647 WRN QApplication: invalid style override passed, ignoring it.
+2017-11-25 18:50:14.060 DBG "\n " well
+2017-11-25 18:50:14.060 DBG "p" well
+2017-11-25 18:50:14.060 DBG tag "t1"
+2017-11-25 18:50:14.060 DBG "asd" well
+2017-11-25 18:50:14.060 DBG "q" well
+2017-11-25 18:50:14.060 DBG "text" well
+2017-11-25 18:53:35.179 WRN QApplication: invalid style override passed, ignoring it.
+2017-11-25 18:53:35.770 DBG "\n " well
+2017-11-25 18:53:35.770 DBG "p" well
+2017-11-25 18:53:35.770 DBG tag "t1"
+2017-11-25 18:53:35.770 DBG "asd" well
+2017-11-25 18:53:35.770 DBG "q" well
+2017-11-25 18:53:35.770 DBG "text" well
+2017-11-25 19:04:32.458 WRN QApplication: invalid style override passed, ignoring it.
+2017-11-25 19:04:32.726 DBG "\n " well
+2017-11-25 19:04:32.726 DBG "p" well
+2017-11-25 19:04:32.726 DBG tag "t1"
+2017-11-25 19:04:32.726 DBG "asd" well
+2017-11-25 19:04:32.726 DBG "q" well
+2017-11-25 19:04:32.726 DBG "text" well
+2017-11-25 19:05:02.676 WRN QApplication: invalid style override passed, ignoring it.
+2017-11-25 19:05:02.905 DBG "\n " well
+2017-11-25 19:05:02.905 DBG "p" well
+2017-11-25 19:05:02.905 DBG tag "t1"
+2017-11-25 19:05:02.905 DBG "asd" well
+2017-11-25 19:05:02.905 DBG "q" well
+2017-11-25 19:05:02.905 DBG "text" well
+2017-11-25 19:12:09.896 WRN QApplication: invalid style override passed, ignoring it.
+2017-11-25 19:12:10.167 "\n " well
+2017-11-25 19:12:10.170 "p" well
+2017-11-25 19:12:10.170 tag "t1"
+2017-11-25 19:12:10.170 "asd" well
+2017-11-25 19:12:10.170 "q" well
+2017-11-25 19:12:10.170 "text" well
+2017-11-25 19:18:25.448 WRN QApplication: invalid style override passed, ignoring it.
+2017-11-25 19:18:25.794 2017-11-25 19:18:25.794 2017-11-25 19:18:25.794 2017-11-25 19:18:25.794 2017-11-25 19:18:25.794 2017-11-25 19:18:25.794 2017-11-25 19:24:13.599 WRN QApplication: invalid style override passed, ignoring it.
+2017-11-25 19:24:13.886 2017-11-25 19:24:13.886 2017-11-25 19:24:13.886 2017-11-25 19:24:13.886 2017-11-25 19:24:13.886 2017-11-25 19:24:13.886 2017-11-25 19:27:14.246 WRN QApplication: invalid style override passed, ignoring it.
+2017-11-25 19:27:14.546 2017-11-25 19:27:14.560 2017-11-25 19:27:14.560 2017-11-25 19:27:14.560 2017-11-25 19:27:14.561 2017-11-25 19:27:14.561 
