@@ -1,58 +1,64 @@
-2017-11-25 18:34:49.134 WRN warning
-2017-11-25 18:43:53.656 WRN QApplication: invalid style override passed, ignoring it.
-2017-11-25 18:43:54.029 DBG "p"
-2017-11-25 18:43:54.029 DBG "\n " well
-2017-11-25 18:43:54.029 DBG "p" well
-2017-11-25 18:43:54.030 DBG "q"
-2017-11-25 18:43:54.030 DBG tag "t1"
-2017-11-25 18:43:54.030 DBG "asd" well
-2017-11-25 18:43:54.030 DBG "q" well
-2017-11-25 18:43:54.030 DBG "text" well
-2017-11-25 18:44:12.514 WRN QApplication: invalid style override passed, ignoring it.
-2017-11-25 18:44:12.867 CRT "XftfParserText:readDocument: node name != text"
-2017-11-25 18:44:12.867 DBG "p"
-2017-11-25 18:44:12.867 DBG "\n " well
-2017-11-25 18:44:12.868 DBG "p" well
-2017-11-25 18:44:12.868 DBG "q"
-2017-11-25 18:44:12.868 DBG tag "t1"
-2017-11-25 18:44:12.868 DBG "asd" well
-2017-11-25 18:44:12.868 DBG "q" well
-2017-11-25 18:50:13.647 WRN QApplication: invalid style override passed, ignoring it.
-2017-11-25 18:50:14.060 DBG "\n " well
-2017-11-25 18:50:14.060 DBG "p" well
-2017-11-25 18:50:14.060 DBG tag "t1"
-2017-11-25 18:50:14.060 DBG "asd" well
-2017-11-25 18:50:14.060 DBG "q" well
-2017-11-25 18:50:14.060 DBG "text" well
-2017-11-25 18:53:35.179 WRN QApplication: invalid style override passed, ignoring it.
-2017-11-25 18:53:35.770 DBG "\n " well
-2017-11-25 18:53:35.770 DBG "p" well
-2017-11-25 18:53:35.770 DBG tag "t1"
-2017-11-25 18:53:35.770 DBG "asd" well
-2017-11-25 18:53:35.770 DBG "q" well
-2017-11-25 18:53:35.770 DBG "text" well
-2017-11-25 19:04:32.458 WRN QApplication: invalid style override passed, ignoring it.
-2017-11-25 19:04:32.726 DBG "\n " well
-2017-11-25 19:04:32.726 DBG "p" well
-2017-11-25 19:04:32.726 DBG tag "t1"
-2017-11-25 19:04:32.726 DBG "asd" well
-2017-11-25 19:04:32.726 DBG "q" well
-2017-11-25 19:04:32.726 DBG "text" well
-2017-11-25 19:05:02.676 WRN QApplication: invalid style override passed, ignoring it.
-2017-11-25 19:05:02.905 DBG "\n " well
-2017-11-25 19:05:02.905 DBG "p" well
-2017-11-25 19:05:02.905 DBG tag "t1"
-2017-11-25 19:05:02.905 DBG "asd" well
-2017-11-25 19:05:02.905 DBG "q" well
-2017-11-25 19:05:02.905 DBG "text" well
-2017-11-25 19:12:09.896 WRN QApplication: invalid style override passed, ignoring it.
-2017-11-25 19:12:10.167 "\n " well
-2017-11-25 19:12:10.170 "p" well
-2017-11-25 19:12:10.170 tag "t1"
-2017-11-25 19:12:10.170 "asd" well
-2017-11-25 19:12:10.170 "q" well
-2017-11-25 19:12:10.170 "text" well
-2017-11-25 19:18:25.448 WRN QApplication: invalid style override passed, ignoring it.
-2017-11-25 19:18:25.794 2017-11-25 19:18:25.794 2017-11-25 19:18:25.794 2017-11-25 19:18:25.794 2017-11-25 19:18:25.794 2017-11-25 19:18:25.794 2017-11-25 19:24:13.599 WRN QApplication: invalid style override passed, ignoring it.
-2017-11-25 19:24:13.886 2017-11-25 19:24:13.886 2017-11-25 19:24:13.886 2017-11-25 19:24:13.886 2017-11-25 19:24:13.886 2017-11-25 19:24:13.886 2017-11-25 19:27:14.246 WRN QApplication: invalid style override passed, ignoring it.
-2017-11-25 19:27:14.546 2017-11-25 19:27:14.560 2017-11-25 19:27:14.560 2017-11-25 19:27:14.560 2017-11-25 19:27:14.561 2017-11-25 19:27:14.561 
+2017-12-03 00:01:35.352 2017-12-03 00:01:35.353 2017-12-03 00:01:35.353 2017-12-03 00:01:35.611 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:02:50.805 2017-12-03 00:02:50.806 2017-12-03 00:02:50.806 2017-12-03 00:02:50.956 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:04:48.560 2017-12-03 00:04:48.560 2017-12-03 00:04:48.560 2017-12-03 00:04:48.742 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:07:16.003 2017-12-03 00:07:16.003 2017-12-03 00:07:16.003 2017-12-03 00:07:16.403 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:07:58.548 2017-12-03 00:07:58.549 2017-12-03 00:07:58.549 2017-12-03 00:07:58.549 2017-12-03 00:07:58.697 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:10:31.905 2017-12-03 00:10:31.905 2017-12-03 00:10:31.905 2017-12-03 00:10:31.905 FTL QWidget: Must construct a QApplication before a QWidget
+2017-12-03 00:11:10.062 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:11:10.062 2017-12-03 00:11:10.062 2017-12-03 00:11:10.062 2017-12-03 00:11:22.495 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:11:22.498 2017-12-03 00:11:22.498 2017-12-03 00:11:22.498 2017-12-03 00:12:23.984 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:12:23.984 2017-12-03 00:12:23.984 2017-12-03 00:12:23.984 2017-12-03 00:12:29.509 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:12:29.511 2017-12-03 00:12:29.512 2017-12-03 00:12:29.513 2017-12-03 00:12:32.910 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:12:32.912 2017-12-03 00:12:32.913 2017-12-03 00:12:32.913 2017-12-03 00:49:17.551 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:49:17.764 2017-12-03 00:49:17.764 2017-12-03 00:49:17.764 2017-12-03 00:51:55.780 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:51:55.780 2017-12-03 00:51:55.780 2017-12-03 00:51:55.780 2017-12-03 00:52:54.253 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:52:54.254 2017-12-03 00:52:54.254 2017-12-03 00:52:54.254 2017-12-03 00:55:31.577 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 00:55:31.577 2017-12-03 00:55:31.577 2017-12-03 00:55:31.577 2017-12-03 01:01:49.000 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 01:01:49.000 2017-12-03 01:01:49.000 2017-12-03 01:01:49.000 2017-12-03 10:40:40.294 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 10:40:40.349 2017-12-03 10:40:40.350 2017-12-03 10:40:40.350 2017-12-03 10:43:28.166 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 10:43:28.231 2017-12-03 10:43:28.231 2017-12-03 10:43:28.231 2017-12-03 10:44:23.073 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 10:44:23.104 2017-12-03 10:44:23.104 2017-12-03 10:44:23.104 2017-12-03 12:00:24.687 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:00:24.730 CRT "XFtfParserText::readDocument"  : Unexpected token type: ' "Invalid" ' Expected:  "StartElement"
+2017-12-03 12:00:24.730 2017-12-03 12:00:24.730 2017-12-03 12:02:10.285 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:02:10.285 CRT "XFtfParserText::readDocument"  : Unexpected token type: ' "Invalid" ' Expected:  "StartElement" "Extra content at end of document."
+2017-12-03 12:02:10.285 2017-12-03 12:02:10.285 2017-12-03 12:03:10.685 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:03:10.685 CRT "XFtfParserText::readDocument"  : Unexpected token type: ' "Invalid" ' Expected:  "StartElement" "Extra content at end of document."
+2017-12-03 12:03:10.685 2017-12-03 12:03:10.685 2017-12-03 12:06:15.419 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:06:15.419 CRT "XFtfParserText::readDocument"  : Unexpected token type: ' "Characters" ' Expected:  "StartElement" ""
+2017-12-03 12:06:15.419 2017-12-03 12:06:15.419 2017-12-03 12:07:16.473 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:07:16.473 CRT "XFtfParserText::readDocument"  : Unexpected token type: ' "Characters" ' Expected:  "StartElement" ""
+2017-12-03 12:07:16.473 2017-12-03 12:07:16.473 2017-12-03 12:07:46.585 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:07:46.585 CRT "XFtfParserText::readDocument"  : Unexpected token type: ' "Characters" ' Expected:  "StartElement" ""
+2017-12-03 12:07:46.585 2017-12-03 12:07:46.585 2017-12-03 12:08:10.835 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:08:10.835 CRT "XFtfParserText::readDocument"  : Unexpected token type: ' "Characters" ' Expected:  "StartElement" ""
+2017-12-03 12:08:10.835 2017-12-03 12:08:10.835 2017-12-03 12:08:45.105 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:08:45.105 CRT "XFtfParserText::readDocument"  : Unexpected token type: ' "Characters" ' Expected:  "EndElement" ""
+2017-12-03 12:08:45.105 2017-12-03 12:08:45.105 2017-12-03 12:08:45.105 2017-12-03 12:13:39.627 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:13:39.627 CRT "XFtfParserText::readDocument"  : Unexpected token type: ' "Characters" ' Expected:  "EndElement" ""
+2017-12-03 12:13:39.627 2017-12-03 12:13:39.627 2017-12-03 12:13:39.628 2017-12-03 12:14:14.682 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:14:14.683 2017-12-03 12:14:14.683 CRT "XFtfParserText::readDocument"  : Unexpected token type: ' "Characters" ' Expected:  "EndElement" ""
+2017-12-03 12:14:14.683 2017-12-03 12:14:14.683 2017-12-03 12:14:14.683 2017-12-03 12:14:42.343 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:14:42.343 CRT "XFtfParserText::readText"  : Unexpected token type: ' "EndDocument" ' Expected:  "EndElement" ""
+2017-12-03 12:14:42.343 2017-12-03 12:14:42.343 2017-12-03 12:14:42.343 2017-12-03 12:16:06.322 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:16:06.323 2017-12-03 12:16:06.323 2017-12-03 12:16:06.323 2017-12-03 12:16:59.495 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:16:59.496 2017-12-03 12:16:59.496 2017-12-03 12:16:59.496 2017-12-03 12:23:01.728 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:23:01.728 2017-12-03 12:23:01.728 2017-12-03 12:23:01.728 2017-12-03 12:25:27.792 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:25:27.793 2017-12-03 12:25:27.793 2017-12-03 12:25:27.793 2017-12-03 12:25:27.793 2017-12-03 12:26:49.414 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:26:49.415 2017-12-03 12:26:49.415 2017-12-03 12:26:49.415 2017-12-03 12:26:49.415 2017-12-03 12:26:59.297 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:26:59.297 2017-12-03 12:26:59.297 2017-12-03 12:26:59.297 2017-12-03 12:26:59.297 2017-12-03 12:29:23.761 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:29:23.764 2017-12-03 12:29:23.764 2017-12-03 12:29:23.764 2017-12-03 12:29:23.764 2017-12-03 12:38:12.528 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:38:12.528 2017-12-03 12:38:12.528 2017-12-03 12:38:12.528 2017-12-03 12:38:12.528 2017-12-03 12:38:12.528 2017-12-03 12:38:12.528 2017-12-03 12:39:04.106 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:39:04.107 2017-12-03 12:39:04.107 2017-12-03 12:39:04.107 2017-12-03 12:39:04.107 2017-12-03 12:39:04.107 2017-12-03 12:39:04.107 2017-12-03 12:39:38.545 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:39:38.546 2017-12-03 12:39:38.546 2017-12-03 12:39:38.546 2017-12-03 12:39:38.546 2017-12-03 12:39:38.546 2017-12-03 12:39:38.546 2017-12-03 12:41:26.019 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:41:26.020 2017-12-03 12:41:26.020 2017-12-03 12:41:26.020 2017-12-03 12:41:26.020 2017-12-03 12:41:26.020 2017-12-03 12:41:26.020 2017-12-03 12:41:44.277 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:41:44.277 2017-12-03 12:41:44.278 2017-12-03 12:41:44.278 2017-12-03 12:41:44.278 2017-12-03 12:41:44.278 2017-12-03 12:41:44.278 2017-12-03 12:47:38.087 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 12:47:38.088 2017-12-03 12:47:38.088 2017-12-03 12:47:38.088 2017-12-03 12:47:38.088 2017-12-03 12:47:38.088 2017-12-03 12:47:38.088 2017-12-03 13:26:00.841 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 13:26:00.854 2017-12-03 13:26:00.854 2017-12-03 13:26:00.854 2017-12-03 13:26:00.854 2017-12-03 13:26:00.854 2017-12-03 13:26:00.854 2017-12-03 13:26:00.932 WRN QObject::connect: Incompatible sender/receiver arguments
+        QAction::triggered(bool) --> QStackedWidget::setCurrentIndex(int)
+2017-12-03 13:30:29.012 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 13:30:29.012 2017-12-03 13:30:29.012 2017-12-03 13:30:29.012 2017-12-03 13:30:29.012 2017-12-03 13:30:29.012 2017-12-03 13:30:29.012 2017-12-03 13:30:29.015 WRN QObject::connect: No such slot MainWindow::setMode(int)
+2017-12-03 13:31:03.758 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 13:31:03.758 2017-12-03 13:31:03.758 2017-12-03 13:31:03.758 2017-12-03 13:31:03.758 2017-12-03 13:31:03.758 2017-12-03 13:31:03.758 2017-12-03 13:32:49.988 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 13:32:49.988 2017-12-03 13:32:49.989 2017-12-03 13:32:49.989 2017-12-03 13:32:49.989 2017-12-03 13:32:49.989 2017-12-03 13:32:49.989 2017-12-03 13:32:49.992 2017-12-03 13:35:13.785 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 13:35:13.786 2017-12-03 13:35:13.786 2017-12-03 13:35:13.786 2017-12-03 13:35:13.786 2017-12-03 13:35:13.786 2017-12-03 13:35:13.786 2017-12-03 14:07:10.231 WRN QApplication: invalid style override passed, ignoring it.
+2017-12-03 14:07:10.231 2017-12-03 14:07:10.231 2017-12-03 14:07:10.231 2017-12-03 14:07:10.231 2017-12-03 14:07:10.231 2017-12-03 14:07:10.231 

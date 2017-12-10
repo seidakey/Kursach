@@ -20,19 +20,20 @@ void Logger::messageHandler(QtMsgType type, const QMessageLogContext &context, c
     // Write the date of recording
     out << QDateTime::currentDateTime().toString("yyyy-MM-dd hh:mm:ss.zzz ");
     // By type determine to what level belongs message
-    if(type == QtDebugMsg) {
-        printf("%s\n", msg.toLatin1().data());
-        fflush(stdout);
-        return;
-    }
     switch (type)
     {
     case QtInfoMsg:     out << "INF "; break;
     case QtWarningMsg:  out << "WRN "; break;
     case QtCriticalMsg: out << "CRT "; break;
     case QtFatalMsg:    out << "FTL "; break;
+    case QtDebugMsg:
+        printf("%s\n", msg.toLatin1().data());
+        fflush(stdout);
+        return;
     }
     // Write to the output category of the message and the message itself
     out << msg << endl;
     out.flush();    // Clear the buffered data
+    printf("%s\n", msg.toLatin1().data());
+    fflush(stdout);
 }

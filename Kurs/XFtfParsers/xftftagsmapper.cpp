@@ -5,9 +5,9 @@ QMap<QString, FtfTag> XFtfTagsMapper::map_;
 
 void XFtfTagsMapper::init()
 {
-    map_.insert(XFtfTagName::text, TEXT);
-    map_.insert(XFtfTagName::paragraph, PARAGRAPH);
-    map_.insert(XFtfTagName::question, QUESTION);
+    map_.insert(XFtfTagName::TEXT, TEXT);
+    map_.insert(XFtfTagName::PARAGRAPH, PARAGRAPH);
+    map_.insert(XFtfTagName::QUESTION, QUESTION);
 }
 
 FtfTag XFtfTagsMapper::get(const QString &tagName) {

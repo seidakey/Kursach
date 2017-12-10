@@ -1,5 +1,24 @@
-<text>
- <p>
- </p>
-   <q tag="t1">asd</q>
-</text>
+<?xml version="1.0"?>
+<document>
+ <questions>
+  <q tag="11">What is biological sence of life?</q>
+  <q tag="12">12</q>
+  <q tag="13">13</q>
+  <q tag="14">14</q>
+ </questions>
+ <text>
+  <t>Title</t>
+   <p>
+    <qp tag="11"/>
+    <qp tag="13"/>
+    <s>Sentense.</s>
+    <s>I have a pen.</s>
+   </p>
+   <p>
+    <qp tag="12"/>
+    <qp tag="13"/>
+    <s>Sentense.</s>
+    <s>I have a pen.</s>
+   </p>
+ </text>
+</document>
